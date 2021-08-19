@@ -1,6 +1,6 @@
 # Requirements
 ## Introduction
- Simple project in c to manage student. You can add student, modify theme, delete theme. There is a different option to view all student and view student individually.
+ Student Management system is a simple project in c to manage the records of all students. You can add student, modify them, delete them. There is a different option to view all student and view student individually and also we can able to see all below mentioned features in this project.
  
 ## Identifying Feature
   --Applications & Recruitment    :Student management system should allow strong connections to be built with prospects from lead to closed-won.
