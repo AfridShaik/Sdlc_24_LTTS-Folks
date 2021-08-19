@@ -1,6 +1,6 @@
 # Requirements
 ## Introduction
- --- TBD
+ Simple project in c to manage student. You can add student, modify theme, delete theme. There is a different option to view all student and view student individually.
  
 ## Identifying Feature
 ## Cost and Features
