@@ -45,34 +45,28 @@
 
 ## Who:
 
-**TBD**
+* This project is helpful for managing student information by adding, updating, removing, viewing and searching for details.
 
 ## What:
 
-**TBD**
+* Students can use this to peer and manage their details.
 
 ## When:
 
-**TBD**
+* If a student wants to know the details and update them according to their needs.
 
 ## Where:
 
-**TBD**
+*  Student needs to be updated about his attendance and all the college details this project can be really use full.
 
 ## How:
 
-**TBD**
+* Student will be knowing his or her details and view and can If anything goes wrong the person might be able to change the details quickly.
 
 # Detail requirements
 ## High Level Requirements:
--- 
-*Student name will start with capital letter.(Eg:-Raja) .
-
-
- *Every student will have unique Roll no based on that they will be identified.
-
-
-*Every one will have to pay the fee on time The student have to maintain Attendance through out academic year. With certain percentage. 
+--- TBD in Tabular Format 
+-- ID | Description | Status (Implemented/Future)
 
 
 ##  Low level Requirements:
