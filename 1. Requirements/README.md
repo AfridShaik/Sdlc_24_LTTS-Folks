@@ -65,8 +65,14 @@
 
 # Detail requirements
 ## High Level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+-- 
+*Student name will start with capital letter.(Eg:-Raja) .
+
+
+ *Every student will have unique Roll no based on that they will be identified.
+
+
+*Every one will have to pay the fee on time The student have to maintain Attendance through out academic year. With certain percentage. 
 
 
 ##  Low level Requirements:
