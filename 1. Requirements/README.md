@@ -24,8 +24,20 @@
 ## Cost and Features
   - Time : Student Management System changes over a period of time in terms of Availability, Scalability.
   - Cost : Our Student Management System reduces the human power and evolved in terms of features with minimal cost.
-## Defining Our System
-    -- TBD
+## Defining Our Requirements:
+   1.	Student name
+   2.	Roll no
+   3.	Branch
+   4.	Grade
+   5.	Gender
+   6.	Personal details (like DOB, address, phone no, parents name & phone no, email id etc.)
+   7.	Fee details (like total fee amounts, fee paid, fee remaining, due date, receipts)
+   8.	Library details (like no of books taken and return, details of the book etc.)
+   9.	Attendance details (like count of present and absent)
+  10.	Hobbies
+  11.	Extra curriculum activities
+  12.	Remarks
+
 ## SWOT ANALYSIS
 ![SWOT-Sample](Link to Pic)
 
