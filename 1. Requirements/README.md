@@ -66,17 +66,17 @@
 # Detail requirements
 ## High Level Requirements:
 
-#Students Profile- The full information of each and every student must bemaintained in System along with the facility to regularly update it from timeto time at regular intervals which will be easily possible through eachstudents unique id.
+##Students Profile- The full information of each and every student must bemaintained in System along with the facility to regularly update it from timeto time at regular intervals which will be easily possible through eachstudents unique id.
 
-#Attendance-
+##Attendance-
  This module is meant to keep detailed record of the studentsthroughout the session. It includes attendance of students in regular classes,lectures, seminars, practicals, clinical work.
 
-#Record of Examination Results- This phase will maintain information ofstudents performance track record. All the result of student includinginternal class test, unit test, mid semester marks, sessional marks ,practicalexams and final examination record will be kept.
+##Record of Examination Results- This phase will maintain information ofstudents performance track record. All the result of student includinginternal class test, unit test, mid semester marks, sessional marks ,practicalexams and final examination record will be kept.
 
-#Providing examination reports-
+##Providing examination reports-
 It is meant to analyse each student performance on the individual level as well as among the group.
  
-#Recording communications with students – 
+##Recording communications with students – 
 It will help in providingstudent with updates on latest notices. It will reduce the burden onmanagement as well as of students in manually providing notice of information 
 
 
