@@ -1,6 +1,6 @@
 # Requirements
 ## Introduction
- Student Management system is a simple project in c to manage the records of all students. You can add student, modify them, delete them. There is a different option to view all student and view student individually and also we can able to see all below mentioned features in this project.
+Student Management System is Console based project designed in c language which is based on the concept of managing student’s records. You can add student, modify them, delete them. There is a different option to view all student and view their records, search students record by roll number and course,update their records and can track their attendance and also we can able to see all below mentioned features in this project.
  
 ## Identifying Feature
   --Applications & Recruitment    :Student management system should allow strong connections to be built with prospects from lead to closed-won.
@@ -24,6 +24,7 @@
 ## Cost and Features
   - Time : Student Management System changes over a period of time in terms of Availability, Scalability.
   - Cost : Our Student Management System reduces the human power and evolved in terms of features with minimal cost.
+  
 ## Defining Our Requirements:
    1.	Student name
    2.	Roll no
