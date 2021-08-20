@@ -39,7 +39,7 @@
   12.	Remarks
 
 ## SWOT ANALYSIS
-![SWOT-Sample](Link to Pic)
+![swotanalysis](3.jpg)
 
 # 4W&#39;s and 1&#39;H
 
