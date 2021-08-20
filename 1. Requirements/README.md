@@ -65,16 +65,22 @@
 
 # Detail requirements
 ## High Level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+
+#Students Profile- The full information of each and every student must bemaintained in System along with the facility to regularly update it from timeto time at regular intervals which will be easily possible through eachstudents unique id.
+
+#Attendance-
+ This module is meant to keep detailed record of the studentsthroughout the session. It includes attendance of students in regular classes,lectures, seminars, practicals, clinical work.
+
+#Record of Examination Results- This phase will maintain information ofstudents performance track record. All the result of student includinginternal class test, unit test, mid semester marks, sessional marks ,practicalexams and final examination record will be kept.
+
+#Providing examination reports-
+It is meant to analyse each student performance on the individual level as well as among the group.
+ 
+#Recording communications with students – 
+It will help in providingstudent with updates on latest notices. It will reduce the burden onmanagement as well as of students in manually providing notice of information 
+
 
 
 ##  Low level Requirements:
--The goal of the LLD(Low Level Design)is to give the internal logical design of the actual program code.
-
--It describes the class diagrams with the methods and relations between classes and program spec. It describes the modules so that the programmer can directly code the program from the document.Modules like UML diagram,Sequence Diagram,Class Diagram,Entity Diagram etc...
-
--It describes how stuent Management Systems provide capabilities for entering student test and other assessment scores, build student schedules, and manage many other student-related data needs in a school.
-
--In this Student Management System project, user can create, display, search, modify and delete student record from a file and this all data is represented by Low level Design Through diagrams.
+The goal of the LLD(Low Level Design)is to give the internal logical design of the actual program code.It describes the class diagrams with the methods and relations between classes and program spec. It describes the modules so that the programmer can directly code the program from the document.Modules like UML diagram,Sequence Diagram,Class Diagram,Entity Diagram etc...It describes how stuent Management Systems provide capabilities for entering student test and other assessment scores, build student schedules, and manage many other student-related data needs in a school. In this Student Management System project, user can create, display, search, modify and delete student record from a file and this all data is represented by Low level Design Through diagrams.
 
