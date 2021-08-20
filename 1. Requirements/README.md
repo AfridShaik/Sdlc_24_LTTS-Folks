@@ -39,7 +39,7 @@
   12.	Remarks
 
 ## SWOT ANALYSIS
-![](swot.png)
+![swotanalysis](swot.png)
 
 # 4W&#39;s and 1&#39;H
 
