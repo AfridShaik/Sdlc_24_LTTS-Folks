@@ -6,7 +6,7 @@
 ## Activity Diagram
 ![Activity Diagram](https://github.com/AfridShaik/Sdlc_Team-24_LTTS-Folks/blob/main/5.Images/Activity.PNG)
 
-##Flow Chart
+## Flow Chart
 ![Flow char](https://user-images.githubusercontent.com/81605230/130340172-4a538ca2-a2f4-42ad-a18c-42f65c01b018.png)
 
 # Structural diagram
