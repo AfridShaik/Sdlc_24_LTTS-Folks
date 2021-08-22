@@ -12,3 +12,4 @@
 # Structural diagram
 
 ## Component Diagram
+![Component Diagram].(https://github.com/AfridShaik/Sdlc_Team-24_LTTS-Folks/blob/main/5.Images/Component%20Diagram.png)
