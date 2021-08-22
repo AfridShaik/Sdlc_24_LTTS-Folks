@@ -21,7 +21,12 @@ endif
 
 SRC : src/Add_Student.c src/search_student.c src/search_student_course.c src/view_student_details.c src/remove_student.c src/update.c
 
-INC :  inc/funtion.h
+INC =  -Iinc\
+-Iunity
+
+UNITY = unity/unity.c 
+
+test_src = test_files/check_name.c 
 
 all:$(BUILD_DIR)
 	gcc main.c $(SRC) $(INC) -o $(call FixPath,$(BUILD_DIR)/$(PROJ_NAME).$(EXEC))
@@ -38,7 +43,11 @@ coverage:${PROJECT_NAME}
 	$(RM) *.gcov
 	$(RM) *.gcda
 
+test: $(SRC) $(test_src) $(UNITY)
+	gcc $^ $(INC) -o $(call FixPath,$(BUILD_DIR)/$(TEST_PROJ_NAME).$(EXEC))
+	$(call FixPath,$(BUILD_DIR)/$(TEST_PROJ_NAME).$(EXEC))
 
+	
 valgrind:
 	valgrind $(BUILD_DIR)/$(TEST_PROJ_NAME).$(EXEC)
 
