@@ -29,5 +29,5 @@ jobs:
         sudo apt-get -y install libcunit1 libcunit1-doc libcunit1-dev 
     - name: make test
       run: |
-        make test -C 3-implementation/
-        valgrind 3-implementation/Build/student_management_system.exe
+        make test -C 3.Implementation/
+        valgrind 3.Implementation/Build/student_management_system.exe
