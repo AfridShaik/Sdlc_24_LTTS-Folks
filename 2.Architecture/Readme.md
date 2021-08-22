@@ -12,4 +12,5 @@
 # Structural diagram
 
 ## Component Diagram
+![Component Diagram](https://user-images.githubusercontent.com/80390615/130352446-20435918-9786-4142-a7c5-20d7c0663893.png)
 
