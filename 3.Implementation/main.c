@@ -2,13 +2,13 @@
 #include <stdlib.h>
 #include <time.h>
 #include <string.h>
-//Used macro
+
 #define MAX_YR  9999
 #define MIN_YR  1900
 #define MAX_SIZE_USER_NAME 30
 #define MAX_SIZE_PASSWORD  20
 #define FILE_NAME  "studentRecordSystem.bin"
-// Macro related to the students info
+
 #define MAX_FATHER_NAME_SIZE 50
 #define MAX_STUDENT_NAME_SIZE 50
 #define MAX_COURSE_NAME_SIZE 50
