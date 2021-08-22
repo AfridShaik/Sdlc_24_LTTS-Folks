@@ -107,4 +107,4 @@ It will help in providingstudent with updates on latest notices. It w
 | ----- | ----- | ------- | ---------|
 | 1 | It describes the class diagrams with the methods and relations between classes and program spec. It describes the modules so that the programmer can directly code the program from the document.Modules like UML diagram,Sequence Diagram,Class Diagram,Entity Diagram etc...  | Techincal | TBD-S1 | 
 | 2 | It describes how stuent Management Systems provide capabilities for entering student test and other assessment scores, build student schedules, and manage many other student-related data needs in a school. | Techincal | TBD-S1 |
-| 3 | In this Student Management System project, user can create, display, search, modify and delete student record from a file and this all data is represented by Low level Design Through diagrams. | Techincal | TBD-S1 |
+| 3 | In this Student Management System project, user can create, display, search, modify and delete student record from a file and this all data is represented by Low level Design Through diagrams. | Techincal | TBD-S1 | 
