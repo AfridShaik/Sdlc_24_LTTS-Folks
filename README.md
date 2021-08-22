@@ -1,5 +1,6 @@
 # Sdlc_Team-24_LTTS-Folks
 # STUDENT MANAGEMENT SYSTEM
+![Banner](https://github.com/AfridShaik/Sdlc_Team-24_LTTS-Folks/blob/main/5.Images/Resized%20pictures%20-%201.png)
 Student Management System is Console based project designed in c language which is based on the concept of managing student’s records.Here You can add student, modify them, delete them.Also there is a different option to view all student and view their records, search students record by roll number and course,update their records and also we can able to see all below mentioned features in this project.Main advanatages of using this includes Eco-Friendly,Efficient control over student data,Monitor student performance,Cost-efficient and User-friendly,Single solution for total College management,Easy access to forums, attendance, timetable, marks, grades and examination schedule.It is a console application using the C language. This application based on file handling in C, where I have used a file-related function like fopen, fread, fwrite, etc.. It is password-protected, so only authorized persons able to login to this application.Also to increase the readability, I have broken the application in different functions. Each function of the project extensively use in the file handing function.
 
 # Requirements
