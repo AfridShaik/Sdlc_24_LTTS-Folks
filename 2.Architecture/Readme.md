@@ -10,3 +10,5 @@
 ![Flow char](https://user-images.githubusercontent.com/81605230/130340172-4a538ca2-a2f4-42ad-a18c-42f65c01b018.png)
 
 # Structural diagram
+
+## Component Diagram
