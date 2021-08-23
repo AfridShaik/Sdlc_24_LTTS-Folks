@@ -15,4 +15,5 @@
 ![Component Diagram](https://user-images.githubusercontent.com/80390615/130352446-20435918-9786-4142-a7c5-20d7c0663893.png)
 
 ## Class Diagram
-![Class Diagram](https://web.whatsapp.com/57723ed4-fdb6-478b-810d-c70bcdd07151)
+![class diagram](https://user-images.githubusercontent.com/61046152/130436066-665df343-f159-456c-b327-313b663026f8.jpeg)
+
