@@ -4,11 +4,11 @@
 #include <string.h>
 #include"inc/funtion.h"
 #include"src/search_student_course.c"
-#include"src\search_student.c"
-#include"src\Add_Student.c"
-#include"src\view_student_details.c"
-#include"src\remove_student.c"
-#include"src\update.c"
+#include"src/search_student.c"
+#include"src/Add_Student.c"
+#include"src/view_student_details.c"
+#include"src/remove_student.c"
+#include"src/update.c"
 
 
 void printMessage(const char* message);
