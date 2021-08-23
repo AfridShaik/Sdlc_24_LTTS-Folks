@@ -12,8 +12,8 @@ Its is a concept of managing student’s records.Here You can add student, modif
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
-`1-Requirements`   | TBU
-`2-Design`         | TBU
+`1-Requirements`   | Files detailing requirements and research done
+`2-Design`         | Documents detailing the architecture used
 `3-Implementation` | TBU
 `4-Test_plan`      | TBU
 `5-Images`         | TBU
