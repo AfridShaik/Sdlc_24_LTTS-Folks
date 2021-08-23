@@ -18,7 +18,7 @@ Folder             | Description
 `4-Test_plan`      | Documents related to test plan and output
 `5-Images`         | Files containing working images and videos
 ## Contributers list and Summary
-PS no     |Features     |Issues raised|Issues solved|No. of testcases|
+PS no   |   Features     | Issues raised | Issues solved | No.of testcases |
  
 ## Identifying Feature
   
