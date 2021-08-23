@@ -9,6 +9,10 @@
 ## Flow Chart
 ![Flow char](https://user-images.githubusercontent.com/81605230/130340172-4a538ca2-a2f4-42ad-a18c-42f65c01b018.png)
 
+## Sequence Diagram
+![Sequence Diagram (2)](https://user-images.githubusercontent.com/61046152/130438618-de2c4e83-b7b0-4ff9-822b-ce2186dd5bac.jpeg)
+
+
 # Structural diagram
 
 ## Component Diagram
