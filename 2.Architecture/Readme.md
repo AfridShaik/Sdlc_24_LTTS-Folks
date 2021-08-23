@@ -18,5 +18,8 @@
 ![Class diagram (2)](https://user-images.githubusercontent.com/61046152/130436338-cba96afe-c4b9-429e-854b-eadd679ae5e2.jpeg)
 
 ## Deployment Diagram
+![Deployment diagram](https://user-images.githubusercontent.com/61046152/130436584-184f6084-7e8a-439c-aeb7-2c378a56c5c2.jpeg)
+
+## Collaboration Diagram
 
 
