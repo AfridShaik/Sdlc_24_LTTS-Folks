@@ -12,6 +12,8 @@
 ## Sequence Diagram
 ![Sequence Diagram (2)](https://user-images.githubusercontent.com/61046152/130438618-de2c4e83-b7b0-4ff9-822b-ce2186dd5bac.jpeg)
 
+## Collaboration Diagram
+![Collabration diagram](https://user-images.githubusercontent.com/61046152/130438811-3b70fed6-a3c1-414d-a1d2-b37bdc9fc437.jpeg)
 
 # Structural diagram
 
@@ -23,7 +25,3 @@
 
 ## Deployment Diagram
 ![Deployment diagram](https://user-images.githubusercontent.com/61046152/130436584-184f6084-7e8a-439c-aeb7-2c378a56c5c2.jpeg)
-
-## Collaboration Diagram
-
-
