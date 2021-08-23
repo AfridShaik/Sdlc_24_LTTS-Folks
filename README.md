@@ -60,6 +60,11 @@ PS no   |   Features     | Issues raised | Issues solved | No.of testcases |
   10.	Hobbies
   11.	Extra curriculum activities
   12.	Remarks
+  
+## Challenges Faced and How was it Overcome
+|No.|	Challange	|Solution|
+|---|-----------|--------|
+|1.|	Unit test cases were not passing|	Rechecked the code and rectified the errors|
 
 ## SWOT ANALYSIS
 ![swotanalysis](https://github.com/AfridShaik/Sdlc_Team-24_LTTS-Folks/blob/main/5.Images/swot.png)
@@ -86,34 +91,27 @@ PS no   |   Features     | Issues raised | Issues solved | No.of testcases |
 
 * Student will be knowing his or her details and view and can If anything goes wrong the person might be able to change the details quickly.
 
-# Detail requirements
+# Detail requirements:
+
 ## High Level Requirements:
 
-## Students Profile- 
-
-The full information of each and every student must bemaintained in System along with the facility to regularly update it from timeto time at regular intervals which will be easily possible through eachstudents unique id.
-
-## Attendance-
-
- This module is meant to keep detailed record of the studentsthroughout the session. It includes attendance of students in regular classes,lectures, seminars, practicals, clinical work.
-
-## Record of Examination Results- 
-
-This phase will maintain information ofstudents performance track record. All the result of student includinginternal class test, unit test, mid semester marks, sessional marks ,practicalexams and final examination record will be kept.
-
-## Providing examination reports-
-
-It is meant to analyse each student performance on the individual level as well as among the group.
- 
-## Recording communications with students – 
-
-It will help in providingstudent with updates on latest notices. It will reduce the burden onmanagement as well as of students in manually providing notice of information 
-
+|ID|Concept|Description|status|
+|--|-------|-----------|------|
+|H_1|Students Profile|The full information of each and every student must bemaintained in System along with the facility to regularly update it from timeto time at regular intervals which will be easily possible through eachstudents unique id.|Completed|
+|H_2|Attendance|This module is meant to keep detailed record of the studentsthroughout the session. It includes attendance of students in regular classes,lectures, seminars, practicals, clinical work.|Completed|
+|H_3|Record of Examination Results|This phase will maintain information ofstudents performance track record. All the result of student includinginternal class test, unit test, mid semester marks, sessional marks ,practicalexams and final examination record will be kept.|TBD|
+|H_4|Providing examination reports|It is meant to analyse each student performance on the individual level as well as among the group.|TBD|
 
 
 ## Low Level Requirements: 
 | ID | Description | Category | Status | 
 | ----- | ----- | ------- | ---------|
-| 1 | It describes the class diagrams with the methods and relations between classes and program spec. It describes the modules so that the programmer can directly code the program from the document.Modules like UML diagram,Sequence Diagram,Class Diagram,Entity Diagram etc...  | Techincal | TBD-S1 | 
-| 2 | It describes how stuent Management Systems provide capabilities for entering student test and other assessment scores, build student schedules, and manage many other student-related data needs in a school. | Techincal | TBD-S1 |
-| 3 | In this Student Management System project, user can create, display, search, modify and delete student record from a file and this all data is represented by Low level Design Through diagrams. | Techincal | TBD-S1 | 
+| L_1 | It describes the class diagrams with the methods and relations between classes and program spec. It describes the modules so that the programmer can directly code the program from the document.Modules like UML diagram,Sequence Diagram,Class Diagram,Entity Diagram etc...  | Techincal | TBD-S1 | 
+| L_2 | It describes how stuent Management Systems provide capabilities for entering student test and other assessment scores, build student schedules, and manage many other student-related data needs in a school. | Techincal | TBD-S1 |
+| L_3 | In this Student Management System project, user can create, display, search, modify and delete student record from a file and this all data is represented by Low level Design Through diagrams. | Techincal | TBD-S1 | 
+
+## References
+- [UML Diagram Tutorial](https://www.youtube.com/watch?v=zid-MVo7M-E)
+- [GeeksForGeeks](https://www.geeksforgeeks.org/c-programming-language/)
+- [Git Documentation](https://docs.github.com/en)
+- [Template](https://github.com/stepin654321/MiniProject_Template)
