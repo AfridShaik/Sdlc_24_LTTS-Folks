@@ -13,10 +13,10 @@ Its is a concept of managing student’s records.Here You can add student, modif
 Folder             | Description
 -------------------| -----------------------------------------
 `1-Requirements`   | Files detailing requirements and research done
-`2-Design`         | Documents detailing the architecture used
-`3-Implementation` | TBU
-`4-Test_plan`      | TBU
-`5-Images`         | TBU
+`2-Architecturee`  | Documents detailing the designs used
+`3-Implementation` | All code and relevant documnetation
+`4-Test_plan`      | Documents related to test plan and output
+`5-Images`         | Files containing working images and videos
  
 ## Identifying Feature
   
