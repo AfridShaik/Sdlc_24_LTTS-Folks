@@ -15,5 +15,8 @@
 ![Component Diagram](https://user-images.githubusercontent.com/80390615/130352446-20435918-9786-4142-a7c5-20d7c0663893.png)
 
 ## Class Diagram
-![class diagram](https://user-images.githubusercontent.com/61046152/130436066-665df343-f159-456c-b327-313b663026f8.jpeg)
+![Class diagram (2)](https://user-images.githubusercontent.com/61046152/130436338-cba96afe-c4b9-429e-854b-eadd679ae5e2.jpeg)
+
+## Deployment Diagram
+
 
