@@ -17,6 +17,8 @@ Folder             | Description
 `3-Implementation` | All code and relevant documnetation
 `4-Test_plan`      | Documents related to test plan and output
 `5-Images`         | Files containing working images and videos
+## Contributers list and Summary
+PS no     |Features     |Issues raised|Issues solved|No. of testcases|
  
 ## Identifying Feature
   
