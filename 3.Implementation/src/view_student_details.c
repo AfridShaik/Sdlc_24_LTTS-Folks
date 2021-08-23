@@ -2,8 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include <string.h>
-#include"C:\Users\afrid\Desktop\STU\inc\funtion.h"
-
+#include"../inc/funtion.h"
 void viewStudentDetails()
 {
     int found = 0;

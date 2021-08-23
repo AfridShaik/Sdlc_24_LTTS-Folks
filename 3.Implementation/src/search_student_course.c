@@ -1,9 +1,8 @@
-#include"C:\Users\afrid\Desktop\STU\inc\funtion.h"
+#include"../inc/funtion.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
 #include <string.h>
-
 
 void searchStudentByCourse()
 {

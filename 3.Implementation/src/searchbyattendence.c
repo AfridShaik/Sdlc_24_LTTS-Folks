@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include <string.h>
-
+#include"../inc/funtion.h"
 //attendence Details
 void searchByAttendence()
 {
