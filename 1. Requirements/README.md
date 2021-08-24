@@ -32,7 +32,7 @@ Student Management System is Console based project designed in c language which 
    3.	Branch
    4.	Grade
    5.	Gender
-   6.	Personal details (like DOB, address, phone no, parents name & phone no, email id etc.)
+   6.	Personal details (like DOB, address, phone no, parents name, email id etc.)
    7.	Fee details (like total fee amounts, fee paid, fee remaining, due date, receipts)
    8.	Library details (like no of books taken and return, details of the book etc.)
    9.	Attendance details (like count of present and absent)
