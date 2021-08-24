@@ -74,8 +74,10 @@ Student Management System is Console based project designed in c language which 
 | ID | Description | Category | Status | 
 | ----- | ----- | ------- | ---------|
 | L_1 | It describes the class diagrams with the methods and relations between classes and program spec. It describes the modules so that the programmer can directly code the program from the document.Modules like UML diagram,Sequence Diagram,Class Diagram,Entity Diagram etc...  | Techincal | TBD-S1 | 
-| L_2 | It describes how stuent Management Systems provide capabilities for entering student test and other assessment scores, build student schedules, and manage many other student-related data needs in a school. | Techincal | TBD-S1 |
-| L_3 | In this Student Management System project, user can create, display, search, modify and delete student record from a file and this all data is represented by Low level Design Through diagrams. | Techincal | TBD-S1 | 
+| L_2 | It describes how stuent Management Systems provide capabilities for entering student test and other assessment scores, build student schedules, and manage many other student-related data needs in a school and colleges. | Techincal | TBD-S1 |
+| L_3 | It this Student Management System project it creates how the modules is implemented and assign to each module through uml diagram i.e object diagram. | Techincal | TBD-S1 |  
+| L_4 | In this Student Management System project, user can create, display, search, modify and delete student record from a file and this all data is represented by Low level Design Through diagrams. | Techincal | TBD-S1 | 
+
 
 
 
