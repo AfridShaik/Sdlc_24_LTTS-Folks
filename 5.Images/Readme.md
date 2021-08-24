@@ -17,3 +17,6 @@
 ## update credentials
 ![Screenshot (28)](https://user-images.githubusercontent.com/64957658/130578869-b2fa89c8-1a25-4525-9362-efd64d8951cd.png)
 
+## Test Cases
+![Screenshot (28)](https://github.com/AfridShaik/Sdlc_Team-24_LTTS-Folks/blob/main/5.Images/test%20output.png)
+
