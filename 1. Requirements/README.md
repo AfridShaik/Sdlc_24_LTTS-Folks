@@ -14,13 +14,6 @@ Student Management System is Console based project designed in c language which 
   
   --Student Management            :Facilitate student engagement with their peers and tutors. Allowing students to view personal details, schedules, academic results and more.
   
-  --Faculty management            :Provide academic staff with a portal to access their schedule, manage student grades & attendance and review their personal details.
-  
-  --Compliance Reporting          :Reporting to relevant legislative bodies within region specific reporting native.
-  
-  --Course Administration         :Manage, create, view and update courses.
-  
-  --Manage Sessions and Attendance:Track and record attendance.
   
 ## Cost and Features
   - Time : Student Management System changes over a period of time in terms of Availability, Scalability.
