@@ -40,3 +40,7 @@ Folder             | Description
 - [GeeksForGeeks](https://www.geeksforgeeks.org/c-programming-language/)
 - [Git Documentation](https://docs.github.com/en)
 - [Template](https://github.com/stepin654321/MiniProject_Template)
+
+## To RUN this Project on console enter username and password
+- Username: ltts folks
+- Password: ltts folks
