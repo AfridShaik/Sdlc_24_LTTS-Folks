@@ -26,3 +26,11 @@
 ## Flow Chart
 ![Flow char](https://user-images.githubusercontent.com/81605230/130340172-4a538ca2-a2f4-42ad-a18c-42f65c01b018.png)
 
+## Object Diagram
+![Objectdiagram](https://user-images.githubusercontent.com/86487919/130601533-e434615e-b2df-46ea-8211-c817327f93dd.gif)
+
+## ER Diagram
+![ER digarm](https://user-images.githubusercontent.com/86487919/130601676-0b012ea3-54aa-412a-82e4-2d3e3d3a60f6.png)
+
+
+
