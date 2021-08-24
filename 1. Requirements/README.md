@@ -78,6 +78,4 @@ Student Management System is Console based project designed in c language which 
 | L_3 | In this Student Management System project, user can create, display, search, modify and delete student record from a file and this all data is represented by Low level Design Through diagrams. | Techincal | TBD-S1 | 
 
 
-## To RUN Project on console enter username and password
-## Username: ltts folks
-## Password: ltts folks
+
