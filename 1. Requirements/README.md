@@ -8,7 +8,6 @@ Student Management System is Console based project designed in c language which 
   
   --Resource Planner(Timetabling) :Provide a clear overview of timetables and scheduling for students, staff, and locations. Avoiding conflicts and assisting in forward planning.
   
-  --Student 360 Degree View       :Visibility of all interactions with students from start to finish.
   
   --Fees, Scholarship and Funding :Minimize delays in application processing by collecting and reporting appropriate eligibility criteria.
   
