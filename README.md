@@ -30,8 +30,8 @@ Folder             | Description
 ## Work Division
 |Folder|Contribution|
 |------|------------|
-|1_Requirements|Bharathi,Jalaparthi Rani,Vidya|
-|2_Architecture|Shraddha,Nagaraju|
+|1_Requirements|Bharathi,Rani,Vidya|
+|2_Architecture|Shraddha,Nagaraju,Rani|
 |3_Implementation|Afrid,Vishnu Priya,Abhishek,Nagaraju,Suprabha|
 |4_Test_Plan|Manasa,Suprabha|
 
