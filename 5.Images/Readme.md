@@ -14,4 +14,5 @@
 ![Screenshot (25)](https://user-images.githubusercontent.com/64957658/130578758-b0236150-e931-4369-9ae0-172912877d50.png)
 
 ## update credentials
+![Screenshot (28)](https://user-images.githubusercontent.com/64957658/130578869-b2fa89c8-1a25-4525-9362-efd64d8951cd.png)
 
