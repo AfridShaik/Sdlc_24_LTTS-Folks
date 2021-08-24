@@ -15,3 +15,9 @@
 |L_05	| H_01 | Updating login password | Data|Change of paassword |	change of password|	Requirement based|
 |L_02 |	H_01 | Delete student details by ID |Data|	Delete's student detail| Delete's student detail	| Requirement based|
 |L_06 |	H_01 | User wants to exit? |Data|	Exit |	Exit |	Requirement based|
+
+Output
+![Screenshot (22)](https://user-images.githubusercontent.com/64957658/130579224-79ab501b-ad71-48c5-ac08-2bf2709f7e10.png)
+
+![Screenshot (23)](https://user-images.githubusercontent.com/64957658/130579246-ddc611bc-fd56-4f64-9b27-93ef1ac808dc.png)
+
